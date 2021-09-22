@@ -1,8 +1,8 @@
 
 START_MSG = """
-Hello <b>{}</b> ! I'm <b>Akinator(Unofficial)</b>.
+Hello <b>{}</b> ! I'm <b>Genie (SAHEEDs)</b>.
 We can play a guessing game.
-Do <code>/play</code>
+Type to <code>/play</code> Start The Game.
 """
 
 ME_MSG = """
@@ -18,8 +18,7 @@ ME_MSG = """
 <b>Total Questions :</b> <code>{}</code>
 """
 
-GITHUB_URL = "https://github.com/notPlasticCat"
-DEV_URL = "https://t.me/f22raptor_uwu"
+DEV_URL = "https://t.me/H4cking1s4Cr1m3"
 
 AKI_LANG_CODE = {
     'en': 'English',
@@ -47,7 +46,7 @@ Change Playing Language.
 """
 
 CHILDMODE_MSG = """
-If Child mode is enabled, akinator won't show any NSFW content.
+If Child mode is enabled, Genie won't show any NSFW content.
 <b>Current Status :</b> <pre>Child mode is {} !</pre>
 """
 
