@@ -5,7 +5,7 @@ Hello <b>{}</b> !!
 I'm <b>Genie (SAHEEDs)</b>.
 
 We can play a guessing game.
-Type to <code>/play</code> Start The Game.
+Type <code>/play</code> to Start The Game.
 """
 
 ME_MSG = """
