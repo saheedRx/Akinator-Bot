@@ -1,10 +1,9 @@
-from strings import AKI_LANG_CODE, DEV_URL, GITHUB_URL
+from strings import AKI_LANG_CODE, DEV_URL
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 START_KEYBOARD = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Github', GITHUB_URL),
             InlineKeyboardButton('Developer', DEV_URL)   
         ]
     ]
