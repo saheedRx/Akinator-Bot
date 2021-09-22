@@ -1,6 +1,9 @@
 
 START_MSG = """
-Hello <b>{}</b> ! I'm <b>Genie (SAHEEDs)</b>.
+Hello <b>{}</b> !!
+
+I'm <b>Genie (SAHEEDs)</b>.
+
 We can play a guessing game.
 Type to <code>/play</code> Start The Game.
 """
